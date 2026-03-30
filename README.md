@@ -16,10 +16,6 @@ npx @flowcore/platform-mcp-server --username <username> --pat <pat>
 
 Replace `<username>` and `<pat>` with your Flowcore username and PAT (Personal Access Token).
 
-## Hosted deployment
-
-A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/flowcore-mcp-flowcore-platform).
-
 ## Installation
 
 If you prefer to install the package globally:
@@ -61,6 +57,10 @@ Run the built project:
 ```bash
 node dist/cli.js --username <username> --pat <pat>
 ```
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/flowcore-mcp-flowcore-platform).
 
 ## Environment Variables
 
